@@ -1,79 +1,74 @@
-# 👋 Hi there, I'm **Vipin Chandra Sao**!  
-![GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## 🚀 Full Stack Developer | React.js | Next.js | Node.js | MongoDB
+# Hi there 👋 I'm Vipin Chandra Sao
 
-I'm a highly motivated Full Stack Developer with a passion for building efficient, scalable, and user-focused web applications. I specialize in modern JavaScript frameworks like **React**, **Next.js**, and backend technologies like **Node.js**, **Express**, and **MongoDB**.
+## Full Stack Developer | Tech Enthusiast | Anime Lover
 
-> ✅ Optimized app performance by 30%  
-> ✅ Increased user engagement by 80%  
-> ✅ Boosted database query speed by 70%
+I'm a passionate Full Stack Developer focused on creating efficient, scalable, and delightful web applications. I specialize in building rich user experiences and robust backend architectures using the **MERN Stack**, **Next.js**, **Firebase**, **WebRTC**, and **Cloudinary**.
 
-I strive to build applications with clean architecture, smooth user experiences, and high maintainability. With hands-on experience in tools like **Firebase**, **Cloudinary**, **Prisma ORM**, and **WebRTC**, I'm always exploring ways to create meaningful digital products.
+- 🚀 Improved app performance by 30%
+- 📈 Boosted user engagement by 80%
+- ⚡ Enhanced database query efficiency by 70%
 
----
-
-### 🔍 About Me
-
-- 🌍 Based in **Raipur, India**  
-- 🧠 Currently learning **Next.js Advanced Concepts**  
-- 💡 Open to **collaborations** on AI-integrated full-stack projects  
-- ✉️ Reach me: [vipinc.sao@gmail.com](mailto:vipinc.sao@gmail.com)  
-- 🔗 Portfolio: [vipin's Portfolio](http://portfolio-latest-y5jf.vercel.app)  
-- ⚡ Fun Fact: I’m an anime enthusiast – let's chat about your favorite one!  
+I'm always looking for exciting opportunities where I can contribute, learn, and collaborate.
 
 ---
 
-### 🛠️ Tech Stack
+### 🌍 Location
+**Raipur, India**
 
-**Languages & Tools**  
-![C++](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg)  
-![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)  
-![TypeScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg)  
-![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg)  
-![HTML5](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg)  
-![CSS3](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg)
-
-**Frontend & UI**  
-![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg)  
-![Next.js](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg)  
-![TailwindCSS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg)
-
-**Backend & Database**  
-![Node.js](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg)  
-![Express](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg)  
-![MongoDB](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg)  
-![MySQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg)  
-![Prisma ORM](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/prisma-colored.svg)
-
-**Others**  
-![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg)  
-![Firebase](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg)  
-![Cloudinary](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cloudinary-colored.svg)  
-![WebRTC](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webrtc-colored.svg)
+### 🔗 Portfolio & Contact
+- **Portfolio:** [MyPortfolio](http://portfolio-latest-y5jf.vercel.app/)
+- **Email:** [vipinc.sao@gmail.com](mailto:vipinc.sao@gmail.com)
+- **Twitter:** [@vipinSao1](https://www.x.com/vipinSao1)
 
 ---
 
-### 📈 GitHub Stats
+### 🧠 Currently Learning
+**Next.js | Firebase Cloud Functions | Docker | AWS**
 
-<a href="https://github.com/vipinsao">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinsao&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+### 🤝 Open to Collaborate On
+**AI-integrated full stack projects**
+
+### ⚡ Fun Fact
+Just an anime lover! Let’s talk about animes! 👾
 
 ---
 
-### 🌐 Connect with Me
+## 🛠️ Skills
 
 <p align="left">
-  <a href="https://github.com/vipinsao" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
-  <a href="https://www.linkedin.com/in/vipinsao" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
-  <a href="https://www.x.com/vipinSao1" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
 </p>
 
-<a href="https://www.x.com/vipinSao1" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/vipinSao1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://github.com/vipinsao" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" /></a>
+  <a href="https://linkedin.com/in/vipinsao" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" /></a>
+  <a href="https://x.com/vipinSao1" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30" height="30" /></a>
+</p>
 
 ---
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/vipinsao">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinsao&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"/>
+</a>
+
 
 > 💬 *“Let's build something impactful, meaningful, and elegant.”*
