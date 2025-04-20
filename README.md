@@ -1,7 +1,7 @@
 
 # Hi there 👋 I'm Vipin Chandra Sao
 
-## Full Stack Developer | Tech Enthusiast | Anime Lover
+## 💻 Full Stack Developer | Tech Explorer | Code • Create • Collaborate
 
 I'm a passionate Full Stack Developer focused on creating efficient, scalable, and delightful web applications. I specialize in building rich user experiences and robust backend architectures using the **MERN Stack**, **Next.js**, **Firebase**, **WebRTC**, and **Cloudinary**.
 
@@ -44,9 +44,9 @@ Just an anime lover! Let’s talk about animes! 👾
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30"/>
+ <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
@@ -57,9 +57,14 @@ Just an anime lover! Let’s talk about animes! 👾
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://github.com/vipinsao" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" /></a>
+ <a href="https://github.com/vipinsao" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="30" height="30" alt="GitHub" />
+</a>
   <a href="https://linkedin.com/in/vipinsao" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" /></a>
-  <a href="https://x.com/vipinSao1" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30" height="30" /></a>
+ <a href="https://x.com/vipinSao1" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" width="30" height="30" alt="Twitter" />
+</a>
+
 </p>
 
 ---
