@@ -3,7 +3,8 @@
 
 ## 💻 Full Stack Developer | Tech Explorer | Code • Create • Collaborate
 
-I'm a passionate Full Stack Developer focused on building clean, scalable, and user-friendly web applications. I work mainly with the **MERN stack**, **Next.js**, **Firebase**, and **Cloudinary**, and I enjoy solving real-world problems through code.
+I'm a passionate Full Stack Developer focused on building clean, scalable, and user-friendly web applications. My core expertise lies in the **MERN stack**, **Next.js**, **Firebase**, and **Cloudinary**, but I'm always open to learning new technologies and adapting to project needs. I enjoy solving real-world problems through efficient code, thoughtful design, and modern development practices. I'm also actively exploring **AI/ML applications** in web development and contributing to **open-source projects** to collaborate, grow, and give back to the tech community.
+
 
 ---
 
