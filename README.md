@@ -3,16 +3,28 @@
 
 ## 💻 Full Stack Developer | Tech Explorer | Code • Create • Collaborate
 
-I'm a passionate Full Stack Developer focused on creating efficient, scalable, and delightful web applications. I specialize in building rich user experiences and robust backend architectures using the **MERN Stack**, **Next.js**, **Firebase**, **WebRTC**, and **Cloudinary**.
-
-- 🚀 Improved app performance by 30%
-- 📈 Boosted user engagement by 80%
-- ⚡ Enhanced database query efficiency by 70%
-
-I'm always looking for exciting opportunities where I can contribute, learn, and collaborate.
+I'm a passionate Full Stack Developer focused on building clean, scalable, and user-friendly web applications. I work mainly with the **MERN stack**, **Next.js**, **Firebase**, and **Cloudinary**, and I enjoy solving real-world problems through code.
 
 ---
 
+### 🚀 What I Do
+- Develop responsive and performant full-stack web applications  
+- Build robust backend APIs and efficient database structures  
+- Integrate third-party services like authentication, storage, and image/video processing  
+- Write clean, maintainable code and follow modern development practices  
+
+
+---
+
+### 📚 Currently Learning
+- Advanced performance optimization techniques  
+- Cloud services and scalable backend architectures  
+- UI/UX improvement for better user experience  
+
+---
+
+### 🤝 What I’m Looking For
+I'm seeking exciting opportunities to **collaborate**, **contribute to impactful projects**, and **learn from experienced teams** in a fast-paced, growth-oriented environment.
 ### 🌍 Location
 **Raipur, India**
 
@@ -22,12 +34,6 @@ I'm always looking for exciting opportunities where I can contribute, learn, and
 - **Twitter:** [@vipinSao1](https://www.x.com/vipinSao1)
 
 ---
-
-### 🧠 Currently Learning
-**Next.js | Firebase Cloud Functions | Docker | AWS**
-
-### 🤝 Open to Collaborate On
-**AI-integrated full stack projects**
 
 ### ⚡ Fun Fact
 Just an anime lover! Let’s talk about animes! 👾
