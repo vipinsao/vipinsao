@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;MERN+%7C+Next.js+%7C+Firebase+Lover;Open+Source+Contributor;Anime+Fan+%F0%9F%91%BB+Tech+Geek" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://i.ibb.co/pP3yq8n/dev-banner.png" alt="Professional Banner" />
+</p>
+
 ---
 
 ## 🚀 What I Do
@@ -18,13 +22,19 @@
 
 ## 📚 Currently Learning
 - 📦 Advanced performance optimization techniques  
-- ☁️ Cloud services and scalable backend architectures  
+- ☁️ AWS & Docker for cloud deployment and containerization  
+- 🤖 Exploring AI Agents & integrating AI models into web apps  
 - 🎨 UI/UX improvement for better user experience  
 
 ---
 
 ## 🤝 What I’m Looking For
-Exciting opportunities to **collaborate**, **contribute to impactful projects**, and **learn from experienced teams** in a fast-paced, growth-oriented environment.
+I am currently open to:
+- 🤝 Collaborations on exciting full stack and AI-powered projects  
+- 💼 Software Development / Full Stack Developer roles (Remote or Onsite)  
+- 📈 Contributing to impactful and scalable applications  
+
+---
 
 ### 🌍 Location:  
 📍 **Raipur, India**
@@ -46,7 +56,7 @@ Just an anime lover! Let’s talk about animes! 👾
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,git,js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,git,js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,docker,aws,vscode" />
 </p>
 
 ---
