@@ -1,86 +1,99 @@
+<h1 align="center">Hi there 👋 I'm Vipin Chandra Sao</h1>
 
-# Hi there 👋 I'm Vipin Chandra Sao
+<h3 align="center">💻 Full Stack Developer | Tech Explorer | Code • Create • Collaborate</h3>
 
-## 💻 Full Stack Developer | Tech Explorer | Code • Create • Collaborate
-
-I'm a passionate Full Stack Developer focused on building clean, scalable, and user-friendly web applications. My core expertise lies in the **MERN stack**, **Next.js**, **Firebase**, and **Cloudinary**, but I'm always open to learning new technologies and adapting to project needs. I enjoy solving real-world problems through efficient code, thoughtful design, and modern development practices. I'm also actively exploring **AI/ML applications** in web development and contributing to **open-source projects** to collaborate, grow, and give back to the tech community.
-
-
----
-
-### 🚀 What I Do
-- Develop responsive and performant full-stack web applications  
-- Build robust backend APIs and efficient database structures  
-- Integrate third-party services like authentication, storage, and image/video processing  
-- Write clean, maintainable code and follow modern development practices  
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;MERN+%7C+Next.js+%7C+Firebase+Lover;Open+Source+Contributor;Anime+Fan+%F0%9F%91%BB+Tech+Geek" alt="Typing SVG" />
+</p>
 
 ---
 
-### 📚 Currently Learning
-- Advanced performance optimization techniques  
-- Cloud services and scalable backend architectures  
-- UI/UX improvement for better user experience  
+## 🚀 What I Do
+- 🌐 Develop responsive and performant full-stack web applications  
+- 🧩 Build robust backend APIs and efficient database structures  
+- ⚙️ Integrate third-party services like authentication, storage, and image/video processing  
+- ✨ Write clean, maintainable code and follow modern development practices  
 
 ---
 
-### 🤝 What I’m Looking For
-I'm seeking exciting opportunities to **collaborate**, **contribute to impactful projects**, and **learn from experienced teams** in a fast-paced, growth-oriented environment.
-### 🌍 Location
-**Raipur, India**
-
-### 🔗 Portfolio & Contact
-- **Portfolio:** [MyPortfolio](http://portfolio-latest-y5jf.vercel.app/)
-- **Email:** [vipinc.sao@gmail.com](mailto:vipinc.sao@gmail.com)
-- **Twitter:** [@vipinSao1](https://www.x.com/vipinSao1)
+## 📚 Currently Learning
+- 📦 Advanced performance optimization techniques  
+- ☁️ Cloud services and scalable backend architectures  
+- 🎨 UI/UX improvement for better user experience  
 
 ---
 
-### ⚡ Fun Fact
+## 🤝 What I’m Looking For
+Exciting opportunities to **collaborate**, **contribute to impactful projects**, and **learn from experienced teams** in a fast-paced, growth-oriented environment.
+
+### 🌍 Location:  
+📍 **Raipur, India**
+
+---
+
+## 🔗 Portfolio & Contact
+- 🖥️ **Portfolio:** [MyPortfolio](http://portfolio-latest-y5jf.vercel.app/)
+- 📧 **Email:** [vipinc.sao@gmail.com](mailto:vipinc.sao@gmail.com)
+- 🐦 **Twitter:** [@vipinSao1](https://www.x.com/vipinSao1)
+
+---
+
+## ⚡ Fun Fact
 Just an anime lover! Let’s talk about animes! 👾
 
 ---
 
 ## 🛠️ Skills
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
- <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,git,js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,vscode" />
 </p>
 
 ---
 
 ## 🌐 Socials
 
-<p align="left">
- <a href="https://github.com/vipinsao" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="30" height="30" alt="GitHub" />
-</a>
-  <a href="https://linkedin.com/in/vipinsao" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" /></a>
- <a href="https://x.com/vipinSao1" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" width="30" height="30" alt="Twitter" />
-</a>
-
+<p align="center">
+  <a href="https://github.com/vipinsao" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="35" />
+  </a>
+  <a href="https://linkedin.com/in/vipinsao" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35" />
+  </a>
+  <a href="https://x.com/vipinSao1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="35" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats & Activity
 
-<a href="https://github.com/vipinsao">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinsao&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vipinsao&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinsao&theme=radical&hide_border=true" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinsao&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🗓️ GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipinsao&theme=github-compact&area=true" />
+</p>
+
+---
+
+## 🧭 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vipinsao&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
 
 > 💬 *“Let's build something impactful, meaningful, and elegant.”*
