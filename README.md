@@ -3,11 +3,11 @@
 <h3 align="center">💻 Full Stack Developer | Tech Explorer | Code • Create • Collaborate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;MERN+%7C+Next.js+%7C+Firebase+Lover;Open+Source+Contributor;Anime+Fan+%F0%9F%91%BB+Tech+Geek" alt="Typing SVG" />
+  <img src="https://github.com/vipinsao/vipinsao/assets/123456789/your-banner-id" alt="Professional Developer Banner" />
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/pP3yq8n/dev-banner.png" alt="Professional Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;MERN+%7C+Next.js+%7C+Firebase+Lover;Open+Source+Contributor;Anime+Fan+%F0%9F%91%BB+Tech+Geek" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,18 +21,19 @@
 ---
 
 ## 📚 Currently Learning
-- 📦 Advanced performance optimization techniques  
-- ☁️ AWS & Docker for cloud deployment and containerization  
-- 🤖 Exploring AI Agents & integrating AI models into web apps  
-- 🎨 UI/UX improvement for better user experience  
+- ☁️ AWS for cloud computing and scalable deployments  
+- 🐳 Docker for containerization and microservices architecture  
+- 🤖 AI Agents and integrating AI models in web apps  
+- 🧠 System design and performance optimization  
+- 🎨 UI/UX for better user engagement  
 
 ---
 
 ## 🤝 What I’m Looking For
-I am currently open to:
-- 🤝 Collaborations on exciting full stack and AI-powered projects  
-- 💼 Software Development / Full Stack Developer roles (Remote or Onsite)  
-- 📈 Contributing to impactful and scalable applications  
+Open to:
+- 💼 SDE / Full Stack Developer roles (Remote or Onsite)  
+- 🤝 Collaboration on impactful open source and AI-driven projects  
+- 🚀 Startup or product-based companies with growth mindset  
 
 ---
 
@@ -56,7 +57,7 @@ Just an anime lover! Let’s talk about animes! 👾
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,git,js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,docker,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,mongodb,mysql,firebase,docker,aws,cpp,git,python,vscode" />
 </p>
 
 ---
@@ -85,7 +86,7 @@ Just an anime lover! Let’s talk about animes! 👾
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinsao&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinsao&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=cpp-dsa-solutions" width="48%" />
 </p>
 
 ---
