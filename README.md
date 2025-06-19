@@ -3,10 +3,6 @@
 <h3 align="center">💻 Full Stack Developer | Tech Explorer | Code • Create • Collaborate</h3>
 
 <p align="center">
-  <img src="https://github.com/vipinsao/vipinsao/assets/123456789/your-banner-id" alt="Professional Developer Banner" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;MERN+%7C+Next.js+Lover;Open+Source+Contributor;Anime+Fan+%F0%9F%91%BB+Tech+Geek" alt="Typing SVG" />
 </p>
 
