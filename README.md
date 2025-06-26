@@ -74,6 +74,14 @@ Just an anime lover! Let’s talk about animes! 👾
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vipinsao&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
@@ -95,6 +103,21 @@ Just an anime lover! Let’s talk about animes! 👾
 
 ---
 
+## 🚀 Latest Project
+
+[![Project: My Portfolio](https://img.shields.io/badge/Live-Portfolio-green?style=flat-square&logo=vercel)](http://portfolio-latest-y5jf.vercel.app/)
+[![Deployment](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fportfolio-latest-y5jf.vercel.app)](http://portfolio-latest-y5jf.vercel.app)
+
+---
+
+## 🎧 Now Playing on Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ygzmvdpv7kcbfpblmjqck7jue4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+</p>
+
+---
+
 ## 🧭 Visitor Count
 
 <p align="center">
@@ -102,5 +125,7 @@ Just an anime lover! Let’s talk about animes! 👾
 </p>
 
 ---
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer"/></p>
 
 > 💬 *“Let's build something impactful, meaningful, and elegant.”*
