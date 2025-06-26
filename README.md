@@ -81,8 +81,8 @@ A smart AI-powered tool that analyzes food ingredients and provides detailed nut
 
 - 🧪 **Tech Stack:** React.js, Next.js, OpenAI API, TailwindCSS, Vercel  
 - 🤖 **Features:** AI-based parsing, dietary suggestions, and clean UI  
-- 🌍 [Live Demo](https://ai-ingredient-analyzer.vercel.app)  
-- 📦 [Source Code](https://github.com/vipinsao/ai-ingredient-analyzer)
+- 🌍 [Live Demo](https://smart-ingredient-analyzer.vercel.app/)  
+- 📦 [Source Code](https://github.com/vipinsao/Smart-Ingredient-Analyzer)
 
 ---
 
