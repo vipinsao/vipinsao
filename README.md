@@ -73,6 +73,20 @@ Just an anime lover! Let’s talk about animes! 👾
 </p>
 
 ---
+## 🚀 Featured Projects
+
+### 🧠 AI Ingredient Analyzer
+
+A smart AI-powered tool that analyzes food ingredients and provides detailed nutritional information using natural language processing.
+
+- 🧪 **Tech Stack:** React.js, Next.js, OpenAI API, TailwindCSS, Vercel  
+- 🤖 **Features:** AI-based parsing, dietary suggestions, and clean UI  
+- 🌍 [Live Demo](https://ai-ingredient-analyzer.vercel.app)  
+- 📦 [Source Code](https://github.com/vipinsao/ai-ingredient-analyzer)
+
+---
+
+
 
 ## 🏆 GitHub Trophies
 
@@ -100,13 +114,6 @@ Just an anime lover! Let’s talk about animes! 👾
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipinsao&theme=github-compact&area=true" />
 </p>
-
----
-
-## 🚀 Latest Project
-
-[![Project: My Portfolio](https://img.shields.io/badge/Live-Portfolio-green?style=flat-square&logo=vercel)](http://portfolio-latest-y5jf.vercel.app/)
-[![Deployment](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fportfolio-latest-y5jf.vercel.app)](http://portfolio-latest-y5jf.vercel.app)
 
 ---
 
