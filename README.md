@@ -117,14 +117,6 @@ A smart AI-powered tool that analyzes food ingredients and provides detailed nut
 
 ---
 
-## 🎧 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ygzmvdpv7kcbfpblmjqck7jue4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
-</p>
-
----
-
 ## 🧭 Visitor Count
 
 <p align="center">
