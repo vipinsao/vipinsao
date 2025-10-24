@@ -59,7 +59,7 @@ I don't code to pad my resume. **I code because there's a problem I want solved*
 **Why I built it:** Wanted to practice interviews but couldn't afford expensive mock interview services. Built my own.
 
 **Tech stack:** JavaScript, Vapi AI, Voice API integration  
-**Status:** ✅ Fully functional
+**Status:** ✅ Live → [Try it here](https://ai-interview-agent-gules.vercel.app/)
 
 **What I learned:** Voice-based AI needs careful prompt engineering to maintain natural conversation flow. Getting the AI to "sound human" took way more iterations than I expected.
 
@@ -101,7 +101,7 @@ I write technical articles to solidify my own understanding and (hopefully) help
 ## 🛠️ Technologies I Actually Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,mongodb,postgres,firebase" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,mongodb,postgres,supabase" alt="Tech Stack" />
 </p>
 
 <p align="center">
