@@ -124,7 +124,7 @@ There's a huge difference between following tutorials and actually building some
 ✅ **Writing about my process** — transparently sharing what I build and what I learn  
 ✅ **No copy-paste mentality** — I understand the concepts, then apply them my way
 
-Also, I'm a huge **anime fan** (Doraemon and Demon Slayer are my go-tos). When I'm not coding or writing, I'm probably watching anime or brainstorming the next project idea.
+Also, I'm a huge **anime fan** (Dragon Ball and Demon Slayer are my go-tos). When I'm not coding or writing, I'm probably watching anime or brainstorming the next project idea.
 
 ---
 
