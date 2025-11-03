@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://portfolio-latest-y5jf.vercel.app" target="_blank">Portfolio</a> •
   <a href="https://dev.to/vipin_sao" target="_blank">Dev.to</a> •
-  <a href="https://medium.com/@vipinc.sao" target="_blank">Medium</a> •
+  <a href="https://medium.com/@vipinsao3" target="_blank">Medium</a> •
   <a href="mailto:vipinc.sao@gmail.com">Email</a>
 </p>
 
@@ -13,7 +13,7 @@
 
 ## 🚀 What I'm Building Right Now
 
-I'm currently obsessed with **GenAI integration in web applications** — not just adding ChatGPT wrappers, but building tools that use AI to solve specific, real-world problems. After months of experimenting with various AI APIs (Groq, Gemini, OpenAI) and building automation workflows with n8n, I've realized something: **the future isn't about AI replacing us, it's about AI embedded into applications making our daily tasks effortless**.
+I'm currently obsessed with **GenAI integration in web applications** not just adding ChatGPT wrappers, but building tools that use AI to solve specific, real-world problems. After months of experimenting with various AI APIs (Groq, Gemini, OpenAI) and building automation workflows with n8n, I've realized something: **the future isn't about AI replacing us, it's about AI embedded into applications making our daily tasks effortless**.
 
 **Current tech focus:**
 - **Frontend:** React + Next.js (because server-side rendering + client interactions = 🔥)
@@ -21,7 +21,7 @@ I'm currently obsessed with **GenAI integration in web applications** — not ju
 - **AI/GenAI:** Integrating Gemini AI, OpenAI, Groq into full-stack apps
 - **Learning:** AWS Cloud Practitioner cert, Docker containerization, system design patterns
 
-I also write technical articles on [Dev.to](https://dev.to/vipin_sao) and [Medium](https://medium.com/@vipinc.sao) — not for the clout, but because writing forces me to really understand what I'm building. If someone learns from it, that's a bonus.
+I also write technical articles on [Dev.to](https://dev.to/vipin_sao) and [Medium](https://medium.com/@vipinsao3) — not for the clout, but because writing forces me to really understand what I'm building. If someone learns from it, that's a bonus.
 
 ---
 
@@ -68,7 +68,7 @@ I don't code to pad my resume. **I code because there's a problem I want solved*
 ### 🎨 [My Portfolio](https://github.com/vipinsao/Portfolio_Latest)
 **What it does:** Personal portfolio with smooth animations and clean UI showcasing my work.
 
-**Why I built it:** Needed a professional online presence that actually represents who I am — not just another generic Bootstrap template.
+**Why I built it:** Needed a professional online presence that actually represents who I am not just another generic Bootstrap template.
 
 **Tech stack:** Next.js, TailwindCSS, Framer Motion  
 **Status:** ✅ Live → [Check it out](https://portfolio-latest-y5jf.vercel.app)
@@ -88,8 +88,28 @@ I don't code to pad my resume. **I code because there's a problem I want solved*
 I write technical articles to solidify my own understanding and (hopefully) help others learn faster than I did.
 
 **Recent articles:**
-- 📌 [JavaScript vs TypeScript – Why Everyone's Shifting to TypeScript in 2025](https://dev.to/vipin_sao/javascript-vs-typescript-why-everyones-shifting-to-typescript-in-2025-3f50) — Dev.to
-- 📌 More articles coming soon on [Medium](https://medium.com/@vipinc.sao) about GenAI integration patterns, n8n automation workflows, and full-stack architecture decisions
+### Dev.to
+📌 **[JavaScript vs TypeScript – Why Everyone's Shifting to TypeScript in 2025](https://dev.to/vipin_sao/javascript-vs-typescript-why-everyones-shifting-to-typescript-in-2025-3f50)**
+A comprehensive breakdown of why TypeScript is becoming the industry standard, comparing features, benefits, and why teams are making the switch.
+
+---
+
+### Medium Articles
+
+📌 **[The Ultimate Job Application Automation: From Zero to Hero with AI-Powered Resume Matching](https://medium.com/@vipinsao3/the-ultimate-job-application-automation-from-zero-to-hero-with-ai-powered-resume-matching-3d7c999b7f49)**
+Dive deep into automating your job search pipeline with intelligent resume matching and AI-powered workflows. Learn how to leverage automation to stand out in competitive job markets.
+
+📌 **[My First AI Workflow: Building My Personal Automation Assistant with n8n](https://medium.com/@vipinsao3/my-first-ai-workflow-building-my-personal-automation-assistant-with-n8n-1d59e160ed65)**
+A hands-on guide to creating your first automation workflow, demonstrating the power of no-code AI integration and practical workflow automation techniques.
+
+---
+
+### 🚀 More Articles Coming Soon
+Stay tuned for upcoming content on:
+- GenAI integration patterns
+- Full-stack architecture decisions
+- Advanced n8n automation workflows
+- AI agent development strategies
 
 **Why I write:**
 - Forces me to understand concepts at a deeper level
