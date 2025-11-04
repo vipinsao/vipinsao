@@ -44,71 +44,111 @@ Hey! I'm **Vipin Chandra Sao**, a Full Stack Developer passionate about building
 
 ## 🚀 Featured Projects
 
-### 🔬 [Smart Ingredient Analyzer](https://github.com/vipinsao/Smart-Ingredient-Analyzer)
-**AI-powered food ingredient analysis tool**
-- Built a web application that uses AI to analyze food ingredient labels and provide health insights
-- **My Role:** Full-stack development, AI API integration, user interface design
-- **Tech Stack:** React, Node.js, GenAI APIs
-- **Impact:** Helps users make informed dietary choices by decoding complex ingredient lists
+### [Smart Ingredient Analyzer](https://github.com/vipinsao/Smart_Ingredient_Analyzer)
 
-### 🤖 [AI Interview Agent](https://github.com/vipinsao/ai-interview-agent)
-**Intelligent interview preparation and practice platform**
-- Developed an AI-driven system that conducts realistic mock interviews and provides personalized feedback
-- **My Role:** End-to-end development, prompt engineering, feedback system design
-- **Tech Stack:** React, Node.js, AI APIs (Groq/OpenAI)
-- **Solution:** Addresses the challenge of interview preparation by providing accessible, realistic practice scenarios
+🔍 AI-powered ingredient analyzer using GenAI to provide health insights, allergen detection, and nutritional analysis
 
-### 🌐 [My Portfolio](https://github.com/vipinsao/Portfolio_Latest)
-**Personal portfolio showcasing projects and skills**
-- Designed and built a responsive, modern portfolio website
-- **Live Demo:** [portfolio-latest-y5jf.vercel.app](https://portfolio-latest-y5jf.vercel.app)
-- **Tech Stack:** React, Next.js, Tailwind CSS, Vercel
-- **Highlights:** Clean UI/UX, responsive design, project showcases with live demos
+**Tech Stack:** Next.js, TypeScript, Groq API, Tailwind CSS, OCR integration
 
-### 🧠 [OpenMind AI Agent](https://github.com/vipinsao/openmind-ai-agent)
-**AI-powered conversational agent**
-- Created an intelligent agent for natural, context-aware conversations
-- **My Role:** Architecture design, AI integration, conversation flow optimization
-- **Tech Stack:** Node.js, GenAI APIs, Real-time processing
+---
 
-### 💼 [AI SaaS WebApp](https://github.com/vipinsao/ai-saas-webapp)
-**Software-as-a-Service platform leveraging AI capabilities**
-- Building a scalable SaaS application with integrated AI features
-- **My Role:** Full-stack development, SaaS architecture, AI feature implementation
-- **Tech Stack:** React, Node.js, AWS, AI APIs
+### [AI Interview Agent](https://github.com/vipinsao/ai-interview-agent)
 
-### ⌨️ [TypingWeb](https://github.com/vipinsao/typingweb)
-**Interactive typing practice platform**
-- Developed a web-based typing tutor with real-time feedback and progress tracking
-- **My Role:** Full development, gamification features, analytics dashboard
-- **Tech Stack:** JavaScript, React, Node.js
+🤖 Simulates realistic tech interviews with AI-driven questioning and real-time feedback
+
+**Tech Stack:** React, Node.js, OpenAI API, WebRTC, TailwindCSS
+
+---
+
+### [My Portfolio](https://github.com/vipinsao/Portfolio_Latest)
+
+💼 Modern, responsive portfolio showcasing projects and skills
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion
+
+**Live:** [portfolio-latest-y5jf.vercel.app](https://portfolio-latest-y5jf.vercel.app)
+
+---
+
+### [OpenMind AI Agent](https://github.com/vipinsao/openmind-ai-agent)
+
+🧠 AI agent for mental wellness support with conversational AI
+
+**Tech Stack:** Next.js, TypeScript, Gemini API, PostgreSQL
+
+---
+
+### [AI SaaS WebApp](https://github.com/vipinsao/ai-saas-webapp)
+
+⚡ Multi-feature AI SaaS platform with authentication and subscription management
+
+**Tech Stack:** Next.js, Clerk Auth, Stripe, OpenAI, MongoDB
+
+---
+
+### [TypingWeb](https://github.com/vipinsao/typingweb)
+
+⌨️ Interactive typing speed test application with real-time WPM tracking
+
+**Tech Stack:** React, JavaScript, CSS3
 
 ---
 
 ## 💼 What I'm Looking For
 
-I'm actively seeking **remote opportunities** where I can contribute as a **Full Stack Developer** or **Software Developer**. I want to work with teams that:
+I'm actively seeking full-time remote opportunities where I can:
 
-✅ **Build products that matter** — solving real problems, not just chasing trends  
-✅ **Value learning over credentials** — growth mindset > "X years of experience"  
-✅ **Embrace modern tech** — open to AI/GenAI integration, automation, and experimentation  
+✅ **Build AI-first products** — integrate GenAI meaningfully, not superficially  
+✅ **Work with modern stacks** — Next.js, React, Node.js, TypeScript, cloud infrastructure  
+✅ **Solve real problems** — create tools that genuinely improve workflows and user experience  
+✅ **Collaborate with strong teams** — learn from and contribute to a culture of excellence  
 ✅ **Encourage ownership** — let developers take ideas from concept to deployment
 
 **Ideal roles:** Full Stack Developer, SDE, Frontend/Backend Engineer, AI Integration Engineer
 
 ---
 
-## 🎓 Open Source & Certifications
+## 🎯 Open Source Contributions
 
 <div align="center">
 
-*This section showcases certifications and open-source contributions*
+### Active Contributions
 
-**Currently building in public and contributing to:**
-- Personal projects exploring GenAI integration patterns
-- Sharing learnings on [Dev.to](https://dev.to/vipin_sao) and [Medium](https://medium.com/@vipinsao3)
+I believe in giving back to the open-source community and contributing to projects that matter.
 
-*Open to collaboration on innovative full-stack and AI projects!*
+</div>
+
+#### 🔹 [Kestra](https://github.com/kestra-io/kestra) - Workflow Automation Platform
+**PR:** [#12605](https://github.com/kestra-io/kestra/pull/12605) - Fix: Prevent "Invalid date" display in Gantt view for executions  
+**Status:** ✅ Approved & Under Review  
+**Tech:** Vue.js, Frontend UI Fix  
+**Impact:** Fixed date rendering issue affecting execution timeline visualization
+
+---
+
+#### 🔹 [EXXETA Trufos](https://github.com/EXXETA/trufos) - API Testing Tool
+**PR:** [#416](https://github.com/EXXETA/trufos/pull/416) - Add HTTP header suggestion feature using shadcn's Command component  
+**Status:** ✅ Merged (June 2025)  
+**Tech:** React, TypeScript, Shadcn UI  
+**Impact:** Improved UX by adding autocomplete suggestions for HTTP headers
+
+---
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+
+[![Pair Extraordinaire](https://github.com/vipinsao?achievement=pair-extraordinaire&amp;tab=achievements)](https://github.com/vipinsao?tab=achievements)
+[![YOLO](https://github.com/vipinsao?achievement=yolo&amp;tab=achievements)](https://github.com/vipinsao?tab=achievements)
+[![Quickdraw](https://github.com/vipinsao?achievement=quickdraw&amp;tab=achievements)](https://github.com/vipinsao?tab=achievements)
+[![Pull Shark](https://github.com/vipinsao?achievement=pull-shark&amp;tab=achievements)](https://github.com/vipinsao?tab=achievements)
+
+**Pull Shark** - Merged multiple pull requests to external repositories  
+**Pair Extraordinaire** - Collaborated effectively on projects  
+**Quickdraw** - Closed issues quickly  
+**YOLO** - Merged pull requests without review (for own repos)
+
+[View all achievements →](https://github.com/vipinsao?tab=achievements)
 
 </div>
 
