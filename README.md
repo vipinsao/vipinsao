@@ -44,7 +44,7 @@ Hey! I'm **Vipin Chandra Sao**, a Full Stack Developer passionate about building
 
 ## 🚀 Featured Projects
 
-### [Smart Ingredient Analyzer](https://github.com/vipinsao/Smart_Ingredient_Analyzer)
+### [Smart Ingredient Analyzer](https://github.com/vipinsao/Smart-Ingredient-Analyzer)
 
 🔍 AI-powered ingredient analyzer using GenAI to provide health insights, allergen detection, and nutritional analysis
 
