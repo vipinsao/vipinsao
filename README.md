@@ -120,7 +120,7 @@ I believe in giving back to the open-source community and contributing to projec
 
 #### 🔹 [Kestra](https://github.com/kestra-io/kestra) - Workflow Automation Platform
 **PR:** [#12605](https://github.com/kestra-io/kestra/pull/12605) - Fix: Prevent "Invalid date" display in Gantt view for executions  
-**Status:** ✅ Approved & Under Review  
+**Status:** ✅ Merged 
 **Tech:** Vue.js, Frontend UI Fix  
 **Impact:** Fixed date rendering issue affecting execution timeline visualization
 
