@@ -1,201 +1,118 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:1a365d&height=300&section=header&text=Vipin%20Chandra%20Sao&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FGenAI%20Integration%20Specialist&descSize=20&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:1a365d&height=300&section=header&text=Vipin%20Chandra%20Sao&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI/GenAI%20Integration%20Specialist&descSize=20&descAlignY=55&descAlign=50)
 
 <div align="center">
 
-### 🔎 Open to Remote Full Stack Roles Worldwide
+## 💼 Full Stack Developer | AI Integration Engineer
 
-📧 **Email:** [vipinc.sao@gmail.com](mailto:vipinc.sao@gmail.com) | 💼 **LinkedIn:** [linkedin.com/in/vipinsao](https://linkedin.com/in/vipinsao) | 🌐 **Portfolio:** [portfolio-latest-y5jf.vercel.app](https://portfolio-latest-y5jf.vercel.app)
+**Building automation-heavy, AI-powered web applications for modern workflows**
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/vipinsao) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/vipinsao) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/vipinSao1)
+[![Email](https://img.shields.io/badge/Email-vipinc.sao%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vipinc.sao@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vipinsao-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vipinsao)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=vercel)](https://portfolio-latest-y5jf.vercel.app)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 🎯 Core Tech Stack
 
-Hey! I'm **Vipin Chandra Sao**, a Full Stack Developer passionate about building AI-powered tools and applications that solve real-world problems. I'm not just adding AI wrappers—I'm integrating GenAI thoughtfully to make daily tasks genuinely effortless.
+```javascript
+const techStack = {
+  frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js", "RESTful APIs"],
+  databases: ["MongoDB", "PostgreSQL"],
+  ai: ["Groq", "Gemini", "OpenAI APIs", "AI-powered automation"],
+  tools: ["Git/GitHub", "Docker", "Vercel", "AWS"]
+};
+```
 
-**Currently focused on:** GenAI integration in web applications, building automation workflows, and creating tools that bridge the gap between cutting-edge AI and practical user needs.
+### 🛠️ What Problems I Solve
 
-**Location:** Raipur, India | **Work Status:** Fully open to remote opportunities worldwide
+- **GenAI Integration**: Building intelligent web apps that leverage AI for real-world automation
+- **Full Stack SaaS**: End-to-end product development from concept to deployment
+- **Workflow Automation**: Creating tools that bridge the gap between cutting-edge AI and practical user needs
 
 ---
 
-## 🛠️ Technical Skills & Current Tech Focus
+### 🚀 Currently Building
+
+**AI-Powered Typing Practice SaaS Platform**  
+A comprehensive typing improvement platform with adaptive AI feedback, real-time analytics, and personalized training modules. Building with Next.js, TypeScript, and advanced AI integration.
+
+*Expected Launch: Q1 2025*
+
+---
+
+### 📌 Featured Projects
+
+<details open>
+<summary><b>🧠 Smart Ingredient Analyzer</b></summary>
+<br>
+AI-powered web app that scans food labels, extracts ingredients using OCR, and analyzes them using Gemini AI for health insights.
+
+**Tech Stack:** Next.js • TypeScript • Groq API • Tailwind CSS • OCR integration
+
+🔗 [View Repository](https://github.com/vipinsao/Smart-Ingredient-Analyzer)
+</details>
+
+<details>
+<summary><b>🎤 AI Interview Agent</b></summary>
+<br>
+Schedule mock interviews by entering job details, then connect to an AI for a voice-based session followed by instant feedback.
+
+**Tech Stack:** Next.js • JavaScript • Supabase • Shadcn UI • Vapi AI
+
+🔗 [View Repository](https://github.com/vipinsao/ai-interview-agent)
+</details>
+
+<details>
+<summary><b>☁️ AI SaaS WebApp</b></summary>
+<br>
+Cloudinary-powered SaaS tool to compress videos, auto-highlight key moments on hover, and generate platform-ready image sizes.
+
+**Tech Stack:** Next.js • TypeScript • Cloudinary • NextAuth • Dynamic UI
+
+🔗 [View Repository](https://github.com/vipinsao/ai-saas-webapp)
+</details>
+
+<details>
+<summary><b>💬 OpenMind AI Agent</b></summary>
+<br>
+Smart AI assistant built with Next.js, TailwindCSS, and Google Gemini API that generates real-time, context-aware responses.
+
+**Tech Stack:** Next.js • JavaScript • Tailwind CSS • Gemini AI
+
+🔗 [View Repository](https://github.com/vipinsao/openmind-ai-agent)
+</details>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-### Core Technologies
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipinsao&show_icons=true&theme=tokyonight&hide_border=true)
 
-![JavaScript](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nextjs)
-![AWS](https://skillicons.dev/icons?i=aws,docker,git,github,mongodb,postgres)
-
-**Frontend:** React, Next.js, JavaScript/TypeScript, HTML5, CSS3, Tailwind CSS  
-**Backend:** Node.js, Express.js, RESTful APIs  
-**AI/ML:** GenAI Integration (Groq, Gemini, OpenAI APIs), AI-powered automation  
-**Cloud & DevOps:** AWS, Docker, Git/GitHub  
-**Databases:** MongoDB, PostgreSQL  
-**Tools & Workflows:** n8n automation, Vercel, Modern development workflows
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vipinsao&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 🌐 Open to Remote Full Stack Roles Worldwide
 
-### [Smart Ingredient Analyzer](https://github.com/vipinsao/Smart-Ingredient-Analyzer)
+**Location:** Raipur, India | **Work Status:** Available for remote SWE opportunities globally
 
-🔍 AI-powered ingredient analyzer using GenAI to provide health insights, allergen detection, and nutritional analysis
-
-**Tech Stack:** Next.js, TypeScript, Groq API, Tailwind CSS, OCR integration
-
----
-
-### [AI Interview Agent](https://github.com/vipinsao/ai-interview-agent)
-
-🤖 Simulates realistic tech interviews with AI-driven questioning and real-time feedback
-
-**Tech Stack:** React, Node.js, OpenAI API, WebRTC, TailwindCSS
+📧 Reach out: [vipinc.sao@gmail.com](mailto:vipinc.sao@gmail.com)  
+💼 Connect: [linkedin.com/in/vipinsao](https://linkedin.com/in/vipinsao)  
+🌐 Portfolio: [portfolio-latest-y5jf.vercel.app](https://portfolio-latest-y5jf.vercel.app)
 
 ---
-
-### [My Portfolio](https://github.com/vipinsao/Portfolio_Latest)
-
-💼 Modern, responsive portfolio showcasing projects and skills
-
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion
-
-**Live:** [portfolio-latest-y5jf.vercel.app](https://portfolio-latest-y5jf.vercel.app)
-
----
-
-### [OpenMind AI Agent](https://github.com/vipinsao/openmind-ai-agent)
-
-🧠 AI agent for mental wellness support with conversational AI
-
-**Tech Stack:** Next.js, TypeScript, Gemini API, PostgreSQL
-
----
-
-### [AI SaaS WebApp](https://github.com/vipinsao/ai-saas-webapp)
-
-⚡ Multi-feature AI SaaS platform with authentication and subscription management
-
-**Tech Stack:** Next.js, Clerk Auth, Stripe, OpenAI, MongoDB
-
----
-
-### [TypingWeb](https://github.com/vipinsao/typingweb)
-
-⌨️ Interactive typing speed test application with real-time WPM tracking
-
-**Tech Stack:** React, JavaScript, CSS3
-
----
-
-## 💼 What I'm Looking For
-
-I'm actively seeking full-time remote opportunities where I can:
-
-✅ **Build AI-first products** — integrate GenAI meaningfully, not superficially  
-✅ **Work with modern stacks** — Next.js, React, Node.js, TypeScript, cloud infrastructure  
-✅ **Solve real problems** — create tools that genuinely improve workflows and user experience  
-✅ **Collaborate with strong teams** — learn from and contribute to a culture of excellence  
-✅ **Encourage ownership** — let developers take ideas from concept to deployment
-
-**Ideal roles:** Full Stack Developer, SDE, Frontend/Backend Engineer, AI Integration Engineer
-
----
-
-## 🎯 Open Source Contributions
 
 <div align="center">
 
-### Active Contributions
+![Profile Views](https://komarev.com/ghpvc/?username=vipinsao&label=Profile+Views&color=58A6FF&style=flat)
 
-I believe in giving back to the open-source community and contributing to projects that matter.
-
-</div>
-
-#### 🔹 [Kestra](https://github.com/kestra-io/kestra) - Workflow Automation Platform
-**PR:** [#12605](https://github.com/kestra-io/kestra/pull/12605) - Fix: Prevent "Invalid date" display in Gantt view for executions  
-**Status:** ✅ Merged 
-**Tech:** Vue.js, Frontend UI Fix  
-**Impact:** Fixed date rendering issue affecting execution timeline visualization
-
----
-
-#### 🔹 [EXXETA Trufos](https://github.com/EXXETA/trufos) - API Testing Tool
-**PR:** [#416](https://github.com/EXXETA/trufos/pull/416) - Add HTTP header suggestion feature using shadcn's Command component  
-**Status:** ✅ Merged (June 2025)  
-**Tech:** React, TypeScript, Shadcn UI  
-**Impact:** Improved UX by adding autocomplete suggestions for HTTP headers
-
----
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-
-[![Pair Extraordinaire](https://github.com/vipinsao?achievement=pair-extraordinaire&amp;tab=achievements)](https://github.com/vipinsao?tab=achievements)
-[![YOLO](https://github.com/vipinsao?achievement=yolo&amp;tab=achievements)](https://github.com/vipinsao?tab=achievements)
-[![Quickdraw](https://github.com/vipinsao?achievement=quickdraw&amp;tab=achievements)](https://github.com/vipinsao?tab=achievements)
-[![Pull Shark](https://github.com/vipinsao?achievement=pull-shark&amp;tab=achievements)](https://github.com/vipinsao?tab=achievements)
-
-**Pull Shark** - Merged multiple pull requests to external repositories  
-**Pair Extraordinaire** - Collaborated effectively on projects  
-**Quickdraw** - Closed issues quickly  
-**YOLO** - Merged pull requests without review (for own repos)
-
-[View all achievements →](https://github.com/vipinsao?tab=achievements)
+**💭 const growth = keepLearning();**
 
 </div>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipinsao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinsao&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinsao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" />
-</p>
-
-<p align="center">
-  <i>I focus on consistent, meaningful commits rather than chasing contribution streaks. Check out my pinned repos to see what I'm actively working on.</i>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-📧 **Email:** vipinc.sao@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/vipinsao](https://linkedin.com/in/vipinsao)  
-🐦 **Twitter:** [@vipinSao1](https://twitter.com/vipinSao1)  
-📝 **Blog:** [Dev.to](https://dev.to/vipin_sao) | [Medium](https://medium.com/@vipinsao3)  
-🌐 **Portfolio:** [portfolio-latest-y5jf.vercel.app](https://portfolio-latest-y5jf.vercel.app)  
-📍 **Location:** Raipur, India
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vipinsao&label=Profile+Views&color=58A6FF&style=flat" />
-</p>
-
----
-
-<p align="center">
-  <b>💭 "Code is just a tool. The real skill is knowing which problems are worth solving."</b>
-</p>
-
-<p align="center">
-  <i>Last updated: November 2025</i>
-</p>
