@@ -36,10 +36,14 @@ const techStack = {
 
 ### 🚀 Currently Building
 
-**AI-Powered Typing Practice SaaS Platform**  
-A comprehensive typing improvement platform with adaptive AI feedback, real-time analytics, and personalized training modules. Building with Next.js, TypeScript, and advanced AI integration.
+**Full-Stack GenAI Web Applications**  
+Building production-ready AI-powered solutions that solve real-world problems. Current focus areas:
 
-*Expected Launch: Q1 2025*
+- **AI Customer Support Chatbot** - Intelligent support system with context-aware responses and ticket routing
+- **Research Agent (Perplexity Clone)** - Web research assistant with source citation and comprehensive analysis
+- **AI-Powered Automation Tools** - Smart workflows for modern productivity
+
+Tech: Next.js, TypeScript, OpenAI/Groq APIs, Vector Databases, RAG Architecture
 
 ---
 
